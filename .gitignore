@@ -1,0 +1,25 @@
+# derleme çıktıları
+test
+test2
+test_updated
+test_old
+deneme
+deneme2
+program
+soket_deneme
+istemci_deneme
+*.o
+
+# çalışma zamanı verisi ve şifreler
+kayıt dosyası
+kayıt dosyası.tmp
+öneriler
+öneriler.tmp
+yetkililer
+
+# yedek ve editör dosyaları
+*.yedek
+*.swp
+
+# kişisel notlar
+CLAUDE.md
